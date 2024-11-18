@@ -42,7 +42,7 @@ Procedure for Schematic simulation using Cadence
 i)	Procedure for Creating New Library.
 
 - File –New – Library
-- Name : Give name for ur library Ex: VLSILAB_EXP_2
+- Name : Give name for ur library Ex: EXP_2
 - Enable Attach to an existing technology library, Click OK
 - Attach the library to the technology library gpdk045.Click OK
 
@@ -52,7 +52,7 @@ ii)	Create Schematic Cell view.
 - File-New-Cell view
 - Setup the new file form
 	 + Library: Select the one you a created.
-	 + Cell : Give the experiment name Ex: Inverter View_Schematic
+	 + Cell : Give the experiment name Ex: MUX_Schematic
 	 + Type: Schematic press OK
     
 - Add the required components from the libraries and make the connections.
