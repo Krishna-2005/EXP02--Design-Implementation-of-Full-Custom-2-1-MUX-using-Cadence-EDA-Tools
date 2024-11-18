@@ -115,8 +115,8 @@ iv)	Creating the new test cell view
 
 ![exp2_trans](https://github.com/user-attachments/assets/a6bdd0f3-8c3d-4c7b-83fd-c2b2b8ac9a47)
 
+![exp2_out](https://github.com/user-attachments/assets/fa625bd3-59c5-4721-8739-8a148948e2ad)
 
-![16](https://github.com/user-attachments/assets/4cdd1104-7c24-45ed-9c63-c467666b2d4a)
 
 ### Results:
 
